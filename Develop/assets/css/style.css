@@ -8,8 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* TODO: CSS comment on what + why adjustment was made. 
-*/
+/* Removed unnecessary 'div' element from the HTML file. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -35,11 +34,9 @@ header nav {
    
 }
 
+/* Condensed repetitive code for the 'header' element */
 header nav ul li {
     list-style-type: none;
-}
-
-header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -72,8 +69,7 @@ p {
     margin-left: 25px;
 }
 
-/* TODO: CSS comment on what + why adjustment was made. 
-*/
+/* The first 3 sections with the same CSS property values were condensed to one class in order to reduce repetitive code */
 .content {
     width: 75%;
     display: inline-block;
@@ -89,20 +85,17 @@ p {
     font-size: 36px;
 }
 
-/* TODO: CSS comment on what + why adjustment was made. 
-*/
+/* Adjustment made to condense 3 sections as the CSS property values were shared. */
 .card {
-
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-
 }
 
-/* TODO: CSS comment on what + why adjustment was made. 
+/* 3 benefits sections with the same CSS property values were condensed to one class in order to reduce repetitive code
 */
 .benefits {
     margin-right: 20px;
@@ -115,12 +108,10 @@ p {
     background-color: #2589bd;
 }
 
-/* TODO: CSS comment on what + why adjustment was made. 
-*/
+/* Added a shared class attribute 'benefit-lbc' to each benefits section. */
 .benefit-lbc {
     margin-bottom: 32px;
     color: #ffffff;
-
 }
 
 .benefit-lbc h3 {
@@ -134,7 +125,7 @@ p {
     max-width: 150px;
 }
 
-
+/* Removed the unnecessary 'div' from the footer */
 footer {
     padding: 30px;
     clear: both;

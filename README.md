@@ -7,12 +7,13 @@ The purpose of this project was to refactor Horiseon's existing site to make it 
 
 Application's CSS selectors and properties were consolidated and organized to follow semantic structure.
 
-Simplified `header` - replacing the opening `div` with a `nav` bar.
+Simplified `header` by replacing the an unnecessary `div` with a `nav` bar.
 
 Condensed the `div` selectors in class `content` to one class `card` in CSS.
 
 Condensed the `div` selectors for the benefits section. Replaced individual classes with one parent class (benefits-lbc) for the 3 benefit options (lbc - lead generation, brande awareness, cost management).
 
+Assigned 'id' attributes to each respective section in the .content `div`. All application links are now functional.
 
 Added accessible alternative attributes to the icon & `img` elements.
 
