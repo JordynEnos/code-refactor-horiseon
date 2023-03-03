@@ -21,6 +21,7 @@ Reordered the heading attributes so they fall in sequential order
 
 Renamed the title element to a more concise, descriptive title. 
 
+
 ## Usage (Screenshot)
 
 ![Screenshot of updated Horiseon webpage](https://github.com/JordynEnos/code-refactor-horiseon/blob/main/Develop/assets/images/Horiseon-screenshot.png?raw=true)
@@ -31,3 +32,8 @@ Renamed the title element to a more concise, descriptive title.
 Bug Fix: Search Engine optimization link was not functional & therefore inaccessible.
 
     The Application link has been corrected & is now functional.
+
+
+## Credits
+
+[README Template Resource](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
