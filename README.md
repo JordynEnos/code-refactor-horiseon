@@ -23,7 +23,7 @@ Renamed the title element to a more concise, descriptive title.
 
 ## Usage (Screenshot)
 
-
+[Screenshot of updated Horiseon webpage](file:///Users/jordynenos/Desktop/mini-projects/code-refactor-horiseon/Develop/assets/images/Horiseon-screenshot.png)
 
 
 ## Differences from Original Code
